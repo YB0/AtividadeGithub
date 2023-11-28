@@ -1,20 +1,21 @@
 ## Atividade 1 - GitHub ##
 
-<p> A atividade consiste na criação e estruturação de um repositório no github e trabalho colaborativo entre os integrantes do grupo. </p>
-Quantidade Mínima de Integrantes: 2
-Quantidade Máxima de Integrantes: 4
+<p> A atividade consiste na criação e estruturação de um repositório no github e trabalho colaborativo entre os integrantes do grupo.
+  
+**Quantidade Mínima de Integrantes:** 2
+**Quantidade Máxima de Integrantes:** 4 </p>
 
 * Criar um repositório no github de um dos integrantes do grupo com o nome “AtividadeGithub”
 * A estrutura do repositório será:
 
-  \AtividadeGithub <br>
+  **\AtividadeGithub <br>
   |--- Readme.md <br>
   |----\Atividade 1 <br>
   |----Readme.md <br>
   |-----\src <br>
   |---- \docs <br>
   |---- \code <br>
-
+**
 * O readme.md do diretório raiz deve conter o nome e a matrícula de cada integrante da equipe.
   
   **OBS.:** O nome e matrícula de cada membro deve ser inserido por cada um a partir de commits separados.
