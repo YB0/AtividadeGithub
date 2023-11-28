@@ -8,13 +8,14 @@
 * Criar um repositório no github de um dos integrantes do grupo com o nome “AtividadeGithub”
 * A estrutura do repositório será:
 
-  **\AtividadeGithub**
-  **|--- Readme.md**
-  **|----\Atividade 1**
-    **  |----Readme.md**
-    **  |-----\src**
-      **|---- \docs**
-      **|---- \code** <br>
+  \AtividadeGithub
+  |--- Readme.md
+  |----\Atividade 1
+    |----Readme.md
+    |-----\src
+      |---- \docs
+      |---- \code
+  
 
 * O readme.md do diretório raiz deve conter o nome e a matrícula de cada integrante da equipe.
   
