@@ -10,12 +10,12 @@
 
   \AtividadeGithub
   
-**  |--- Readme.md** <br>
-**  |----\Atividade 1** <br>
-**    |----Readme.md** <br>
-**    |-----\src** <br>
-**      |---- \docs** <br>
-**      |---- \code** <br>
+  **|--- Readme.md** <br>
+  **|----\Atividade 1** <br>
+    **|----Readme.md** <br>
+    **|-----\src** <br>
+      **|---- \docs** <br>
+      **|---- \code** <br>
 
 * O readme.md do diretório raiz deve conter o nome e a matrícula de cada integrante da equipe.
   
