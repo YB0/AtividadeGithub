@@ -3,5 +3,5 @@
 **Aluna:** Yasmim Brennda Azevedo Souza <br>
 **Matrícula:** 20201214010004
 
-**Aluna:** Isabella Dantas de Azevedo Bezerra
+**Aluna:** Isabella Dantas de Azevedo Bezerra <br>
 **Matrícula:** 20201214010030
