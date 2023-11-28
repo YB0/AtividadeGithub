@@ -1,6 +1,6 @@
-**Atividade 1 - GitHub**
+<h1>Atividade 1 - GitHub</h1>
 
-A atividade consiste na criação e estruturação de um repositório no github e trabalho colaborativo entre os integrantes do grupo.
+<p> A atividade consiste na criação e estruturação de um repositório no github e trabalho colaborativo entre os integrantes do grupo. </p>
 Quantidade Mínima de Integrantes: 2
 Quantidade Máxima de Integrantes: 4
 
