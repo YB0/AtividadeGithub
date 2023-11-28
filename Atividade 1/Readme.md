@@ -9,11 +9,17 @@
 * A estrutura do repositório será:
 
   \AtividadeGithub
+  
   |--- Readme.md
+  
   |----\Atividade 1
+  
     |----Readme.md
+  
     |-----\src
+  
       |---- \docs
+  
       |---- \code
   
 
