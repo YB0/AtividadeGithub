@@ -1,5 +1,7 @@
 ## Documentação Básica 
 
+__Para rodar o programa, execute "python calculadora.py" no terminal;__
+
 A aplicação é uma calculadora simples desenvolvida em Python usando a biblioteca Tkinter para criar uma interface gráfica. Abaixo, detalharemos as classes e métodos utilizados para a sua construção.
 
 ### CalculatorApp (Classe)
