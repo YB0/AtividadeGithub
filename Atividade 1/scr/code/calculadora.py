@@ -31,6 +31,11 @@ class calculator(tk.Tk):
 
             self.clear_field()
             self.text_result.insert(1.0, "Error")
+
+    def clear_field(self):
+        
+        self.calculation = ""
+        self.text_result.delete(1.0, "end")
             
 app = calculator()
 app.geometry("300x275")
