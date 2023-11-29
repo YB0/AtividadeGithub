@@ -32,10 +32,10 @@ class calculator(tk.Tk):
             self.clear_field()
             self.text_result.insert(1.0, "Error")
 
-    def clear_field(self):
-        
-        self.calculation = ""
-        self.text_result.delete(1.0, "end")
+    def clear_field(self): 
+         
+        self.calculation = "" 
+        self.text_result.delete(1.0, "end") 
 
     def create_buttons(self):
         
