@@ -15,7 +15,7 @@ calculation (str): Armazena a expressão matemática inserida pelo usuário; tex
 
 **add_to_calculation(self, symbol):** Utilizada para que, quando o usuário apertar um botão, o caractere seja adicionado à variável calculation. Além disso, atualiza a interface gráfica para refletir a mudança na expressão. Seu único parâmetro é symbol, do tipo str, que representa o símbolo a ser adicionado na expressão;
 
-**evaluate_calculation(self):** Avalia a expressão matemática atual e exibe o resultado na calculadora. Se houver um erro na avaliação, exibe "Error" na interface. Não utiliza parâmetros;
+**evaluate_calculation(self):** Avalia a expressão matemática atual, realizando a soma, subtração, multiplicação e divisão e exibe o resultado na calculadora. Se houver um erro na avaliação, exibe "Error" na interface. Não utiliza parâmetros;
 
 **clear_field(self):** Limpa a expressão matemática e o campo de resultado, atualizando a interface gráfica para refletir a limpeza. Não utiliza parâmetros;
 
