@@ -19,6 +19,19 @@ class calculator(tk.Tk):
         self.text_result.delete(1.0, "end")
         self.text_result.insert(1.0, self.calculation)
         
+     def evaluate_calculation(self):
+        
+        try:
+            
+            self.calculation = str(eval(self.calculation))
+            self.text_result.delete(1.0, "end")
+            self.text_result.insert(1.0, self.calculation)
+        
+        except:
+
+            self.clear_field()
+            self.text_result.insert(1.0, "Error")
+            
 app = calculator()
 app.geometry("300x275")
 app.mainloop()
